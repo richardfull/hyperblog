@@ -18,3 +18,17 @@ body
 {
     font-size: 20px;
 }
+#cabecera 
+{
+    background: mediumblue;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera span
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
